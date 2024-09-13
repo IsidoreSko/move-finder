@@ -6,7 +6,7 @@ html,
 body {
   height: 100%;
 }
-
+/* 
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -29,4 +29,4 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-}
+} */
